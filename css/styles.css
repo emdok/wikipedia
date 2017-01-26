@@ -1,8 +1,10 @@
+
 .sidebar {
-  padding: 20px;
+  margin-right: 0px;
   display: block;
   float: left;
 }
+
 .sidebar ul {
   list-style-type: none;
 }
@@ -22,11 +24,6 @@
   padding: 0px 5px 0px 5px;
 }
 
-.tabnav-right {
-  display: block;
-  float: right;
-}
-
 .tabnav-left {
   display: block;
   padding-top: 40px;
@@ -38,4 +35,13 @@
 
 .well {
   display: block;
+}
+img {
+  text-align: center;
+}
+.panel-body img {
+  float: left;
+}
+.col-md-12 img{
+  margin-right: 20px;
 }
