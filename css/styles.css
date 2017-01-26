@@ -1,0 +1,20 @@
+.sidebar {
+  float: left;
+}
+.sidebar ul {
+  list-style-type: none;
+}
+
+.header {
+  float: right;
+}
+
+.header ul {
+  list-style-type: none;
+  padding: 0px 20px 0px 20px;
+}
+
+.header li {
+  display: inline;
+  padding: 0px 5px 0px 5px;
+}
