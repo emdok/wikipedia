@@ -1,4 +1,6 @@
 .sidebar {
+  padding: 20px;
+  display: block;
   float: left;
 }
 .sidebar ul {
@@ -6,6 +8,7 @@
 }
 
 .header {
+  display: block;
   float: right;
 }
 
@@ -17,4 +20,22 @@
 .header li {
   display: inline;
   padding: 0px 5px 0px 5px;
+}
+
+.tabnav-right {
+  display: block;
+  float: right;
+}
+
+.tabnav-left {
+  display: block;
+  padding-top: 40px;
+}
+
+.nav-tabs li:nth-child(n+3) {
+  float: right;
+}
+
+.well {
+  display: block;
 }
