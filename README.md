@@ -12,6 +12,8 @@ Rebuilt Wikipedia Homepage using Bootstrap, HTML, and CSS.
 
 View site at this GitHub Pages link here:
 
+https://emdok.github.io/wikipedia/
+
 ## Support and contact details
 
 dokkenemily@gmail.com
